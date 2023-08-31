@@ -1,0 +1,1 @@
+Create 4 columns (2 with rounded boxes, 2 of them unrounded ), one of them should have 4 smaller boxes in a row, the second should have 4 circles in a row, the third should have 4 icons on the top, the last one should have a mix of both 2 icons and 2 circles at the bottom.
